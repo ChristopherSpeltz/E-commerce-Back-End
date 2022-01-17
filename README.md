@@ -3,7 +3,7 @@
 ## Description
 Back End application created for e-commerce site. The application was created using Express.js, Sequelize, MySQL, and dotenv.
 
-- [Application Demo](https://drive.google.com/file/d/1leLjOORrOIbWBrKkBZ8e3A4ZLc5G9XfW/view?usp=sharing)
+- [Video Tutorial](https://drive.google.com/file/d/1leLjOORrOIbWBrKkBZ8e3A4ZLc5G9XfW/view?usp=sharing)
 
 ## Table of Contents
 - [ScreenShots](#screenshots)
